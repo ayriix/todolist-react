@@ -1,6 +1,7 @@
 {
   "name": "todolist",
   "version": "0.1.0",
+  "homepage": "https://ayriix.github.io/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.10.1",
