@@ -2,7 +2,6 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ayriix.github.io/todolist-react",
   "dependencies": {
     "@reduxjs/toolkit": "^2.10.1",
     "@testing-library/dom": "^10.4.1",
